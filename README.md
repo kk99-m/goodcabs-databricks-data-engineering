@@ -13,7 +13,7 @@ This project implements a modern Lakehouse architecture using Databricks and AWS
 
 The pipeline:
 
-Reads raw CSV files stored in Amazon S3
+<li>Reads raw CSV files stored in Amazon S3</li>
 Loads raw datasets into the Bronze layer
 Cleanses and transforms data in the Silver layer
 Produces business-ready Gold tables
