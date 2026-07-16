@@ -14,19 +14,19 @@ This project implements a modern Lakehouse architecture using Databricks and AWS
 The pipeline:
 
 <li>Reads raw CSV files stored in Amazon S3</li>
-Loads raw datasets into the Bronze layer
-Cleanses and transforms data in the Silver layer
-Produces business-ready Gold tables
-Stores processed data as Delta Tables
-Uses Unity Catalog for centralized governance
-Uses Lakeflow Declarative Pipelines for automated ETL
+<li>Loads raw datasets into the Bronze layer</li>
+<li>Cleanses and transforms data in the Silver layer</li>
+<li>Produces business-ready Gold tables</li>
+<li>Stores processed data as Delta Tables</li>
+<li>Uses Unity Catalog for centralized governance</li>
+<li>Uses Lakeflow Declarative Pipelines for automated ETL</li>
 
 Tech Stack :
-Databricks
-AWS S3
-PySpark
-SQL
-Delta Lake
-Unity Catalog
-Lakeflow Declarative Pipelines
-Medallion Architecture
+<li>Databricks</li>
+<li>AWS S3</li>
+<li>PySpark</li>
+<li>SQL</li>
+<li>Delta Lake</li>
+<li>Unity Catalog</li>
+<li>Lakeflow Declarative Pipelines</li>
+<li>Medallion Architecture</li>
