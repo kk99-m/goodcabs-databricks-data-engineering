@@ -21,7 +21,7 @@ Stores processed data as Delta Tables
 Uses Unity Catalog for centralized governance
 Uses Lakeflow Declarative Pipelines for automated ETL
 
-Tech Stack
+Tech Stack :
 Databricks
 AWS S3
 PySpark
