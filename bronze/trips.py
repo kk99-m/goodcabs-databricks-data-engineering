@@ -1,7 +1,7 @@
 from pyspark import pipelines as dp
 import pyspark.sql.functions as F
 
-SOURCE_PATH = "s3://goodcabs/data-store/trips"
+SOURCE_PATH = "s3://goodcabs/data-store/trips" #source
 
 
 # https://docs.databricks.com/aws/en/ingestion/cloud-object-storage/auto-loader/schema
